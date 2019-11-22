@@ -1,0 +1,304 @@
+Feedback
+Disregard my bug comment earlier. The issue was the font size on my phone which i had set as very large.
+On my phone (Samsung Note8) the size of the text is out of proportion to the page.
+Could you populate and allow me to filter by product. On the deals Won section. 
+Would it be possible to add a filter to the deals/opps based on product line (CSG, DCC, DCS)
+Add trip report count visibility
+More Integration for example spifs
+Coins integration
+It would be great if we could book Solution Centre engagements via the application. currently we need to log in via browser into csc.dell.com to book engagements
+Filter by product type lists the stages.
+Compensation summary show 0
+When you look at the opportunities, it would be helpful to sort by stage. Thank you 
+Looking good!
+T
+The app is easy to use but Iâ€™m still unable to see opps for my team.  Without that capability, this app isnâ€™t very useful.  
+Next steps section you are limited to a certain number of characters would be nice to expand that number of characters
+too slow
+We should have a share feature when we're actually on the account page that we are looking at we should be able to quickly share that account with our rep to give him information on the account unfortunately with our new workspace one email we can't cut and paste and paste into a  email
+Search  function foes not alwyas finds the account.
+Easy app
+This is awesome.
+I cannot save Partner Visit because it requires custumer attendee. When visiting partner we do not always enggage with end user and my account does not cover end user. Partners only
+In the quota attainment it would be interesting to have the last refresh date from the server (not just the local)
+This app is amazing! I feel like everybody needs to know about it!
+It's saying I am not assigned on any accounts and does not display anything. Used to work fine a while ago. 
+How about adding the amount of payout we can/will expect for the current and future month? 
+I have reported thai problem before and did not get a reply .  The mobile app can not load my opportunities or accounts . 
+Easy to use! Great infoemation 
+The location services is not accurate 
+The opportunities view doesnâ€™t enable me to view all opps for my district - only those assigned to me. 
+Hi Team, please check filter on Opportunities. It seems renewals opps are included in the pipeline. Saw yesterday with user Philippe Kreft. He has a overstated Pipeline
+Doesn't refresh 
+When you go into add trip reports it brings up all the accounts under that customer, looks like all global, do not that easy to find accounts always. Suggestion - just have main accounts come up first, and then sub accounts, and not all accounts. 
+Account data are not accurate.
+Under the deals summary screen, it woul be ideal if the deal number would appear so I don't have to open each deal to find the one I'm  working on for more info.
+Is it possible for DCC RSDs to be able to see accounts?
+I love the improvement made to the to reporting, it's made my day to day so much easier and faster.  I now look forward to inputting to trip reports.  It's actually faster then doing it off my notebook.  THANK YOU
+good tool!
+If we cannot edit comments or close date, this application is not really useful for the field.  
+great app
+Great tool. Looking forward to using it more.
+On search. It does not give you a complete  list of accounts. If I  search for "san jose" I  only get 10 accounts, but in Saleforce I get several hundreds. 
+I just got this app and i love how itâ€™s laid out. This will be a great resource for me when Iâ€™m away from the office and want to look into a deal, my quota, etc. Well done!
+I canâ€™t see the VxRail for Arkema
+Good
+I'm Sales director... not an AE... how can I see more detailed info on the app like 'team pipeline'... ?
+Accounts are not reflected in mapping location .Makes task extremely difficult not being able to preview accounts on map. 
+No record of team member performance
+Trying to edit opportunity, but cannot save my changes.
+Remove attainment from the top of the screen when I open the app. I canâ€™t pull this up infront of customers because of this feature. 
+Additional filter for deal opportunity.  Filter by solution type.  Also add a mask for customer name on opportunity so name is visible. 
+Hi ! Trying to create an opportunity couldn't add any product to it. Thanks!
+Can you filter by opportunity type so I can just see the enterprise opps and not all the client opps that are irrelevant to me.
+Such a helpful app!! Well done! For me as a DCSE it would be helpful to filter by product or solution category. Furthermore I would like to see the collaboration comments of opportunities. These two features would make my everyday work so much easier :) thanks a lot
+I'm running into the issue on the account team page where if I press the phone icon it only brings up the number without the area code which would work great if I was in that same area code but not if I'm not in the same area if you could add the area code portion of that phone number and so it dials out without an error that would be great
+G
+I canâ€™t creat a trip report or pull any pertinent information of my sales 
+I would love to filter by isg versus csg opps.  I am a field dcse and would love that.   Also not sure if the core emc opps still populate but mime do not work. 
+I noticed that the compensation information sometimes will not update unless I log out and log back in.
+Is it possible to as a filter to the opportunity view?  Also can we remove the customer name prefix from the opps?
+Thank you this helps
+In my incentive, my commisions it's ok to be in local currency but for target incentive/ should be in USD. Great app
+Insight to backlog/demand would be helpful
+No se actualiza conatantemente 
+Need to be added to the following accounts while being the district manager: Allianz, Daimler, MunichRe, SAP, Siemens and VW Group 
+Can you add Finger print scanning for additional security ?
+Add partner name to opportunity view
+Need to be able to click the email of a contact in an account to email them from Corp email. Thanks 
+Very useful 
+Very useful app
+Is the foundation of this application available for customers to purchase for their sales teams?
+No deal are showing for my account. 
+DCSE filter wanted. Storage only.
+Please allow location services to update real time. 
+It would be nice if i could filter opportunities to items i get credit on
+Monthly commissions 
+Please add todos, similar to the sfdc app
+Can I select the deals by product? E.g. VMware
+Easier to find info her and quick more than anywhere 
+It would be great if the overlays could filter accounts by AE.  I am aligned to 3 to 4 aes and it would be easier to manage if we could filter pipeline views. 
+Awesome app will use a lot 
+No deals are shown for my account. 
+Show compensation by quota types rather than just attainment. Type is more important 
+Need to see actual revenue attainment in dollars not just percentages snd commission 
+It would be great to be able to access the app on a PC, change the Sales Relationship Address and have the ability to refresh location while in the app. 
+Looks great...have to use it regularly to comment further on this
+Hi, I would love a feature that showed the yearly spend of a customer. A customer just asked me "what did I spend last year?" Without Gii or Seg it was difficult to get the data. Thanks
+Would it make sense for the pipeline funnel view to change based on the number of opportunities in each section e.g. if 60% has more opps than 30% then male the 60% segment bigger. It would also be good to have them as active links to quickly jump to a filtered view of all the opps at a particular stage.
+Is it possible to filter the deal piepline so you can only see ISG opportunities and not client ones? 
+On incentives. Would be better to have access to month wise incentives and payments too for ease of accesability
+There is an issue with the mapping and customer site location
+Est-il possible de diffÃ©rencier les clients sur la Map par le potentiel business ?
+We need to have access to the team attainments and Also the metric dÃ©tails 
+Need option to just select CURRENT QTR only. 
+More intuitive home screen 
+Super aber zumindest bei mir fehlen noch Daten. Aus Zielerreichung sehe ich noch nix 
+Filter opps for accounts based on role. TSR/DCSE roles donâ€™t need to see client deals.
+Add next step field to opportunity view
+When does this app get enabled for managers
+O cant see my quota 
+On the Incentives section it would be nice to have visibilty to all buckets
+Pls make it work for managers. Just add all the accounts of the people reporting to me. Thank you!
+Mike Murray-enterprise test
+I filled the whole trip report but could not submit or save it. How does one know that the report is saved ? 
+Opportunity filter by LOB
+Is it possible to change opportunity amount?I can't figure out how 
+A few things. I love this app. Can the map icon be listed at the bottom next to home instead of the small button above the trips on the main page?  Also in the trip ticket section can we switch the action and comments section?
+How to navigate 
+Link to BMS or results
+Need more filters by product family and code
+Nice app
+It says I don't have sufficient privileges to access sfdc.
+Only feature available for leaders is SCORE; tool isnâ€™t very helpful
+Cannot access to opps detail 
+Could you add the partner name in the opportunity ?
+good
+Score is 1 day delayed than actual web interface Score, and it would really add value if you added what if scenarios to reflect commissions. Thanks
+Gud
+Sales portal link missing as per webinar
+I donâ€™t see opps or customers every day, it is different when into de VPN or not.
+not able to update sdfc from here 
+When i select an account...account team the account team doesn't show dell team related to that account(ISR,TSR, GCN, CCS)
+When i select a "Classify" option for data (ex: value high to low), after logout and login again the selection persist but data order no...we have to confirm the selection again
+Need to be able to see the Close Dates for the opportunities.  
+On the forecast part, we neee an option to select ONLY current Quarter and a separate for Future Quarters. 
+Can we remove customer name from deals screen? It's redundant and makes it difficult to differentiate deals. 
+too slow
+Would like to see backlog volumes in Incentive page.
+Add a Field relates to deals commited to current and next week.
+On the home page:  I like seeing earnings attainment, but would like to see the detail and/or payments, such as we see in Score. Also, the Accounts listed on the bottom half arenâ€™t of any value for me.  Iâ€™d rather see a YTD revenue report showing percent of quota achieved - something that gives a quick snapshot by qtr, half or year
+I could not edit the date on a cloned trip report
+Values reported in currency are not correct probably due a bug on currency exchange calculation
+Lacking ability to: See comments, sort opportunities by Quarter, %Probability, Storage VS. GCCS.   In addition, we need to be able to edit the opportunity.  
+It appears that the only opportunity that shows up in the list is one where I am listed as owner in error.  For an SE, they will typically never be an opp owner.  The AE will own the opp.  Need to be able to setup something for an SE's accounts opps to show up.
+I recieved an error that I had insufficient privileges in salesforce.
+Not user friendly and info not complete 
+Is great app...thanks 
+No view of SalesForce Data
+At stimulans the revenues are also wrong, it now.says that I have earned 500k bonus, this should be 5k. This is because the . and , are changed with each other
+The values of the revenues are incorrect. 200k deals are showing as 200M
+Display only three primary accounts. 
+I was able to get account list to load initially but now all I get is compensation. Iâ€™ve submitted for support but still have not gotten a response. If I could get account distance to load this app would be invaluable! But only getting comp info is just another way to access it. 
+Add a locator button to the map screen so you can zoom to where you are on the map.
+I would like to be able to filter opportunities based on line of business
+I can only log in with the account @emc.com but a message comes up that I do not have enough privileges
+Only Score information is populated. The rest of the info is not syncing. 
+Doesn't retrieve any data
+The only part of this app that functions is the feedback survey... really wish we could utilize the tool.
+Not getting attainment data now
+App is totally blank. Cannot search any of my accounts
+Easy and intuitive 
+Connectivity issues - no deals appear 
+Just get an error saying something went wrong error 9999
+Easy
+Insufficient Salesforce access error again
+Access to data has been limited and wont share content on my app
+App is more Dell Sfdc related, not Emc. Enterprise Reps canâ€˜t use this app for Opportunity Management. Next steps which is mandatory to be updated is missing. To create new Opp there are too much mandatory fields. Contacts canâ€™t be created but its mandatory for a new Opp. Filter for time frame is missing
+Insufficient access. Never seem to be able to load content
+No access
+Easy access to major Information for Account Executive
+Great app. All of the vital info in one place
+Unable to submit trip report
+Error 9999
+No data on the Landing page and the hour glaaa just spins. 
+First impressions are very good - intuitive, only relevant detail and runs quickly. Would be nice to be able to see $ breakdown of product, prepaid maintenance (incl.#years), and professional services. Outside of that all good at this time.
+Backlog details and order credit by account information would have been of gret help.
+Deal ID and product detail information are not available
+Awesome to use on the road!!
+N/a
+error 9999 entering trip report on first try.   the second try is usually successful. 
+Hi I installed the app today â€“ looks great, updated my first trip this way â€“ fantastic.   BUT   In the home page I get an error message: â€œYou do not have sufficient access to SakesForce to retrieve the data. Please contact mysales.mobile.I2@emc.com to get accessâ€ â€“ but I can find all my accounts when trying to create a trip or an opportunity   Hope you can assist. Iâ€™m working as an AE using Heritage Dell SFDC, but Iâ€™m a legacy EMC employee and logged in using my emc mail address (nielspeter.nielsen@emc.com )   Niels Peter Nielsen Account Executive Dell EMC | Commercial Business Denmark Mobile +45 31 228 114  
+I show no content for my accounts. As a ASE manager, that would be VERY helpful.  Otherwise, all I see I compensation updates which arenâ€™t that valuable. 
+amazing.. so glad this is here now... Thank You
+It would be nice to upload opportunities from the app. Change date of booking or stage. 
+Filter by rep and date
+I would like to add a new view for deals to view them by line of business or the ability to filter by product type
+I'd like to be able to update next steps on opportunities
+Easy to use
+Please show sales quota and attainment details
+Still nothing showing in the app, got error message about insuffisant access rights.... 3 tickets already openned no news no update ... very annoying
+Error message logging trip reports. The application times out and I am unable to log trip reports successfully 
+I am an android user so the iphone users are gonna be jealous. ðŸ˜Ž 
+cool tool!
+Auto login is been disabled..
+Great job so far guys! Would it be possible to drill down to the latest Won deals?
+Could you add some filters to the last visited companies? Would like to view each of my AEs separately...
+Great app easy to use. Would like to see current quarter and out quarter filter tool
+I am an SE focused on ISG only. Need to be able to filter based on Lob and also on qtrs. I have over 3000 opps, too many. 
+No data loaded in app
+How to check monthly basis inventive amount?
+Need to be able to filter in opportunities by product.  I am in GCN so seeing client oops isn't helpful
+Only show Customer and Product conbected to eg DCSE role. No server, client, network
+when adding product to an opportunity we should just have the listing there instead of having to search it out I find it more difficult searching it out when I type in a keyword it doesn't List It
+Bug -99.9999 and no opp shows up
+Sales report tab: redirects me to a webpage (away from the app). Enter my name, email and credentials again- does not find me!  And as a team leader, no customers are assigned to me at all, so I canâ€™t log a Help a customer ticket from within the app or See Trip reports.
+Love it! Thank you 
+Create a filter option that enables deal sort by book date.
+No deal value reflecting against deals - all reflects as either $0 or ZAR0
+When selecting attendees there is no way of getting back to the previous screen from the search screen. 
+Unable to add any technical resources from the application as the search yields no results.  Only sales roles seem to appear.
+Trying to log a trip report and none of my accounts are coming up in the search. Once in search and no results found you canâ€™t get back into the trip report. 
+Why have a Inside ISM no visibility for his team portfolio here? Thanks. 
+Greate app 
+Cloud you show the pipeline for BU, Not show all pipeline 
+How about listing ops on main screwn
+Auto fill when adding associates and customers 
+Need to re-login way too frequently. Where is SFDC?
+It would be good to be able to sort the pipeline by book date. This would make it easy to have week to week conversations with the team and not have yo log into Salesforce. 
+After a few click the apps auto shutdown 
+It would be great to have security login before access like face screening/biometric scan/ password.
+Error
+Says i do not have any accounts assigned 
+one thing that would be good to have is if we could share the page feature on this app so whatever account were looking at we can quickly share with our resources
+Why do we have Miles / Km toggle in settings?
+Are we able to integrate MySales with Engage app for con call function.
+Can we have device biometric integration?? Being able to use face or fingerprints is handy especially with the complexity of AD passwords as per good practice 
+Can we have a filter on opps, touch the funnel to show only the relevant stage? It would also be awesome to remove past win opps and be able to set this q or this h only. The current list is unworkable so if no real use to have won opps from last half and lost opps showing
+need the ability to Sort opportunities by â€œbook dateâ€ so that I can see what opportunities I have that are forecast to close this month/quarter/half.
+Two things; id like to be able to see a report that Iâ€™ve created on sfdc as viewing ALL opps is worthless to me. Second, I keep getting error with the score screen. Should I be able to see the log of sales?
+Doesnâ€™t recognize me & doesnâ€™t display anything related to my compensation, opportunities etc. 
+the account the list when sorting from near to far it's really not showing your closest location it's showing further locations than where I'm actually am.  So it's really not sorting near to far
+Iâ€™d like to be able to see what deliveries made up the SCORE total. 
+I had to upgrade to ios 11 to download app. There are going to be many people not willing to upgrade to latest operating system as maybe their phone will not handle the upgrade well
+Love it. Still new but I know you guys will enhance it more.
+Show wether deal is direct or indirect 
+Very good app..
+this is a test record
+App is very user friendly and will be very useful, especially those in the field and mobile on a daily basis. Thanks 
+Does not appear the stage is populating/pulling the correct associated opps.
+Eliminate Win/Won in the pipeline. IMO, not critical or necessary.
+Test
+Error id : 9999 still occurs even after recent update. 
+How about bio security?? Using face or fingerprint to logon
+Easy to navigage!
+I miss some contact details in the opportunities
+App is very slow
+Test
+Test
+Awesome
+Error when looking for account when adding a new trip report
+Try
+I have now moved to Enterprise segment. Salesforce funnel is not pointing to EMC SFDC.
+Getting lots of id:9999 errors after upgrading to 1.3
+Get rid of distance it is useless. St the default sort to account name (or let me do that). Tidy up the opportunities part. I want to be able to see relevant opps not random 1% that gets system generated. Or allow me to see just 30s or 60s
+Unable to find additional Dell attendee and no option to return. All input data was lost when trying to go back to reenter attendees 
+Test.... Bambi
+I have now found the section where I input summary information. It is not easy to find as it is not outlined and is not easy to use when dictating 
+Need to be able to add summary and action details to trip. Is there a way to edit the trips?
+Would be good to be able to sort the opportunities on the deal page 
+Super app... one touch of button will get to know the performance  
+Sorry, please disregard my previous request for voice input. It works fine. Thanks Rob
+Need voice input for trip reports
+The apps been down and error for few days
+My achievement info has dropped out and I canâ€™t get rid of distance on the accounts (distance is useless). Also opportunity section is useless as there are won and closed oops there making it not functional
+Pipeline is nog schoenen/generated
+Distance sorter not working
+Shubham mobile
+I found the eady to navigate
+Accounts are not loaded. App apears empty
+hey thanks
+Thanks
+The account list does not allow you to list by distance
+Sales portal is not opening and I feel it connects us to sfdc ,bms report 
+Team, what is required to load accounts and other compensation metrics? 
+Be useful to have a selection available when viewing the opportunity graph pipeline, eg.  Click on the 60 % and view all deals at 60 %
+Be nice to have both kilometers and miles in the distance view
+I am missing deal id numbers by the deals
+Multiple 
+Takes lot of time in opening the app
+It would be great if we get alerts/notifactions via de app or sms that one of our customers has submitted a case with technical support and it seems to escalate for some reason.
+Can we change miles into km?
+Filtering out opportunities, particularly closed and won so I can see the real pipe. Also sorting a customers on name and not last visit would be good
+I don't see any service requests loaded within my accounts where I know there are pending and historical cases with technical support
+Distances to customers is in miles an option to use kilometers would be good. Date format is us which is confusing, international format option would be good. Link to sales portal will never be used as it requires additional authentication making the link immediately too hard
+Very intuitive 
+The 
+fgadfasdgfasdgagfasdgagasdgasdgasgasgdasgdasgdasgasdg
+sdfsdf
+Nice App
+Accounts now listed after latest update. Opportunity pipeline still missing most data. Galaxy s8+ Android o
+Can we filter deals by stage?
+test
+No option for metric distance. Pls add to rest of my feedback. Platform = galaxy s8+ running Android O
+Test
+Don't have any accounts assigned. No information on how to add accounts alignment in the app
+The app advises that I don't have any accounts allocated to me. Can I please request that my accounts be linked to me as a user? 
+Can only see 3 deals here. Interesting that it does dhow deals for Accounts that I can't see on the accounts page. 
+Only shows 3 of my 7 accounts 
+fsdf
+test
+czczxc
+Na
+Na
+super
+Good app
+good app
+good app
+Very nice app
+test
+dsfsdf
+sdfsdf
+Test
+test test
+sd
